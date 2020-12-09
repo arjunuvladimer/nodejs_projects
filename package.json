@@ -18,6 +18,7 @@
   "homepage": "https://github.com/arjunuvladimer/nodejs_projects#readme",
   "dependencies": {
     "calculator": "^0.1.12",
+    "lodash": "^4.17.20",
     "weather": "^1.0.4"
   }
 }
